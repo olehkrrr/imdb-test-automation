@@ -33,4 +33,3 @@ npx playwright test
 - `/tests` - Contains all test cases
 - `/page` - Source code and utilities
 - `/engine` - Entry point for all pages
-- 
