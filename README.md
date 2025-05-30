@@ -16,7 +16,7 @@ This project contains automated tests for IMDb using Playwright.
 
 ## Setup
 
-1Install dependencies:
+Install dependencies:
    ```sh
    npm install
    ```
